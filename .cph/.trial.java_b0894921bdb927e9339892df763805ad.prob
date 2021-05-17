@@ -1,0 +1,1 @@
+{"name":"Local: trial","url":"e:\\JAVA\\KickStart\\trial.java","tests":[{"id":1620980755931,"input":"abcde\nabzde","output":"4\nabde"},{"id":1620986078362,"input":"ababc\nabcde","output":"3\nabc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\KickStart\\trial.java","group":"local","local":true}
