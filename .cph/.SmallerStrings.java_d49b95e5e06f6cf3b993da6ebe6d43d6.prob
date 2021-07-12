@@ -1,0 +1,1 @@
+{"name":"Local: SmallerStrings","url":"e:\\JAVA\\KickStart\\SmallerStrings.java","tests":[{"id":1621768341784,"input":"3\n2 3\nbc\n5 5\nabcdd\n1 5\nd","output":"Case #1: 2\nCase #2: 8\nCase #3: 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\KickStart\\SmallerStrings.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CuttingInterval","url":"e:\\JAVA\\KickStart\\CuttingInterval.java","tests":[{"id":1625986482017,"input":"1\n3 3\n1 3\n2 4\n1 4","output":"Case #1: 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\JAVA\\KickStart\\CuttingInterval.java","group":"local","local":true}
